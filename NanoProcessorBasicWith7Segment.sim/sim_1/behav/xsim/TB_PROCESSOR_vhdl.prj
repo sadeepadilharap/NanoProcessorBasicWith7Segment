@@ -1,0 +1,26 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/AddSubUnit.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/Decoder_2_to_4.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/Decoder_3_to_8.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/FA.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/HA.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/InstructionDecoder/InstructionDecoder.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/SevenSegmentDriver/LUT_Digit.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/SevenSegmentDriver/LUT_Sign.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/muxes/Mux_2_1_3.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/muxes/Mux_2_1_4.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/muxes/Mux_8_1_4.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/PCAdder.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/new/PROCESSOR.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/PC/ProgramCounter.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/ROM/Programme_ROM.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/RCA_4.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/Reg.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/RegBankv2.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/SevenSegmentDriver/SevenSegDriver.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Clk/Slow_Clk.vhd" \
+"../../../../NanoProcessorBasicWith7Segment.srcs/sim_1/new/TB_PROCESSOR.vhd" \
+
+# Do not sort compile order
+nosort

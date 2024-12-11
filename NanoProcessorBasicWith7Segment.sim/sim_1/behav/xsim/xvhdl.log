@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/new/PROCESSOR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PROCESSOR
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/SevenSegmentDriver/SevenSegDriver.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity SevenSegDriver
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Clk/Slow_Clk.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Slow_Clk

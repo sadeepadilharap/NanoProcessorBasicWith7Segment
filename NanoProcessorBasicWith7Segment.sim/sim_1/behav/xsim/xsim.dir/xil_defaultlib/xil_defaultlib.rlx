@@ -1,0 +1,25 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sim_1/new/TB_PROCESSOR.vhd,1714912882,vhdl,,,,tb_processor,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/AddSubUnit.vhd,1713938524,vhdl,,,,addsubunit,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/FA.vhd,1707816806,vhdl,,,,fa,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/HA.vhd,1707814000,vhdl,,,,ha,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/PCAdder.vhd,1713619412,vhdl,,,,pcadder,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Adders/RCA_4.vhd,1713822742,vhdl,,,,rca_4,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/Clk/Slow_Clk.vhd,1714915580,vhdl,,,,slow_clk,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/InstructionDecoder/InstructionDecoder.vhd,1714913072,vhdl,,,,instructiondecoder,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/PC/ProgramCounter.vhd,1714032782,vhdl,,,,programcounter,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/ROM/Programme_ROM.vhd,1714048252,vhdl,,,,programme_rom,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/SevenSegmentDriver/LUT_Digit.vhd,1713991168,vhdl,,,,lut_digit,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/SevenSegmentDriver/LUT_Sign.vhd,1713994212,vhdl,,,,lut_sign,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/SevenSegmentDriver/SevenSegDriver.vhd,1714923189,vhdl,,,,sevensegdriver,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/muxes/Mux_2_1_3.vhd,1713626170,vhdl,,,,mux_2_1_3,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/muxes/Mux_2_1_4.vhd,1713640176,vhdl,,,,mux_2_1_4,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/muxes/Mux_8_1_4.vhd,1713640176,vhdl,,,,mux_8_1_4,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/Decoder_2_to_4.vhd,1713108410,vhdl,,,,decoder_2_to_4,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/Decoder_3_to_8.vhd,1713108410,vhdl,,,,decoder_3_to_8,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/Reg.vhd,1714021222,vhdl,,,,reg,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/imports/Sources/regbank/RegBankv2.vhd,1713821046,vhdl,,,,regbankv2,,,,,,,,
+D:/sem2/DigitalDesign/NanoProcessor Submissions/NanoProcessorBasicWith7Segment/NanoProcessorBasicWith7Segment.srcs/sources_1/new/PROCESSOR.vhd,1714923220,vhdl,,,,processor,,,,,,,,
